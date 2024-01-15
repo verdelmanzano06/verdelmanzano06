@@ -6,7 +6,7 @@ Hi 👋 My name is Verdel Manzano
 Full Stack Web Software Engineer
 ----------------------------
 
-I'm a passionate Full Stack Web Software Engineer with over 6 years of hands-on experience in crafting web and mobile applications that blend functionality with exceptional user experiences. My journey in the world of software development has been a thrilling adventure, and I'm excited to share some of my highlights with you:
+I'm a passionate Full Stack Web Software Engineer with over 7 years of hands-on experience in crafting web and mobile applications that blend functionality with exceptional user experiences. My journey in the world of software development has been a thrilling adventure, and I'm excited to share some of my highlights with you:
 
 * 🌍  I'm based in Bulacan, Philippines
 * ✉️  You can contact me at [verdelmanzano@gmail.com](mailto:verdelmanzano@gmail.com)
